@@ -2,7 +2,7 @@
 
 ---
 
-I am looking for an opportunity to acquire hands-on experience in the field of Web Development, hoping to lay a strong foundation for myself. :wink:
+🤔 I am looking for an opportunity to acquire hands-on experience in the field of Web Development, hoping to lay a strong foundation for myself. :wink:
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  
@@ -10,9 +10,7 @@ I am looking for an opportunity to acquire hands-on experience in the field of W
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> 
  
  👯 I’m looking to collaborate for a MERN Stack based project.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/dulakshakavindu/Github-Cards-External-Blogs).
- 
+  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
